@@ -1,7 +1,7 @@
 # Real-Time Face Verification & Attendance System (Python + OpenCV + Face Recognition)
 
 This project is a real-time face verification and attendance system built using Python, OpenCV, and the Face Recognition library (dlib).  
-It automatically detects and verifies employee faces through a webcam feed and records attendance in a CSV file — ensuring each employee’s attendance is marked **only once per day**.
+It automatically detects and verifies employee faces through a webcam feed and records attendance in a CSV file — ensuring each employee’s attendance is marked only once per day.
 
 ---
 
